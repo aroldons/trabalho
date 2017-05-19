@@ -14,3 +14,6 @@ http
         console.log('Express escutando na porta ' + app.get('port'));
     });                                         
 
+// comentarios do trabalho 18/05 - ta dificil hoje
+
+// comentarios do trabalho 18/05 - ta dificil terminar o trabalho
